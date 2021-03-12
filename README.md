@@ -12,7 +12,7 @@ HIDMacros is very old but works if the compatibility mode and the admin mode act
 
 ## Microsoft Segoe MDL2
 
-The font is very clean to distinguish the keys.
+The font is very clean and the symbols are good to distinguish the keys.
 
 ## Rottay Keyboard
 
