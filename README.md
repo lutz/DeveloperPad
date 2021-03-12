@@ -29,11 +29,11 @@ This keyboard use mechanical keys which has a good press point.
 | <kbd>7</kbd>      | Rebuild                            |
 | <kbd>8</kbd>      | Cancel build                       |
 | <kbd>9</kbd>      | Clean solution                     |
-| <kbd>-</kbd>      | Go to code reference               |
+| <kbd>-</kbd>      | Search in solution                 |
 | <kbd>4</kbd>      | Debug                              |
 | <kbd>5</kbd>      | Pause debug                        |
 | <kbd>6</kbd>      | Cancel debug                       |
-| <kbd>+</kbd>      | Search in solution                 |
+| <kbd>+</kbd>      | Go to code reference               |
 | <kbd>1</kbd>      | Debug single step (<kbd>F11</kbd>) |
 | <kbd>2</kbd>      | Debug next step (<kbd>F10</kbd>)   |
 | <kbd>3</kbd>      | Switch breakpoint                  |
