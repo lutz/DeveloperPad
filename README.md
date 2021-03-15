@@ -8,7 +8,7 @@ I use a [Rottay](https://www.amazon.de/gp/product/B08T98CSRY/ref=ppx_yo_dt_b_asi
 
 ## HIDMacros
 
-HIDMacros is very old but works if the compatibility mode and the admin mode activats. This small tool allows to remap keys from different devices which is agreat way because windows inteprets multiple keyboards as one.
+HIDMacros is very old but works if the compatibility mode and the admin mode is activated. This small tool allows remapping keys from different devices which is agreat way because windows inteprets multiple keyboards as one.
 
 ## Microsoft Segoe MDL2
 
@@ -43,4 +43,4 @@ This keyboard use mechanical keys which has a good press point.
 
 ## Summary
 
-It is a very cheap alternate to solutions like Elgato Stream Deck or software like Touch Portal.
+It is a very cheap alternative to solutions like Elgato Stream Deck or software like Touch Portal.
