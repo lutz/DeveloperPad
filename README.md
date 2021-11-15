@@ -6,9 +6,13 @@ I use a [Rottay](https://www.amazon.de/gp/product/B08T98CSRY/ref=ppx_yo_dt_b_asi
 
 ![](https://github.com/lutz/DeveloperPad/blob/337eda8c16f99d30a768435ceae401095741fd33/pad.jpg)
 
-## HIDMacros
+## MultiKeyboard Macros (Update 2021-11-15)
 
-HIDMacros is very old but works if the compatibility mode and the admin mode is activated. This small tool allows remapping keys from different devices which is agreat way because windows inteprets multiple keyboards as one.
+I've decided to switch from HID Macros to the (paid) software named [MultiKeyboard Macros](https://mediachance.com/multikeyboard/). This software is easier to handle multiple Keyboards and works more stable as HID Macros which is not under developing.
+
+## ~~HIDMacros~~
+
+~~HIDMacros is very old but works if the compatibility mode and the admin mode is activated. This small tool allows remapping keys from different devices which is agreat way because windows inteprets multiple keyboards as one.~~
 
 ## Microsoft Segoe MDL2
 
